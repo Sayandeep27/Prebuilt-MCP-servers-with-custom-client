@@ -129,7 +129,7 @@ async def main():
     print("Type 'exit' or 'quit' to stop.")
 
     # -------------------------------------------------
-    # Interactive CLI loop
+    # Interactive CLI loop, we could have used streamlit or html-css-js as well
     # -------------------------------------------------
     while True:
         user_question = input("\nAsk me anything → ")
