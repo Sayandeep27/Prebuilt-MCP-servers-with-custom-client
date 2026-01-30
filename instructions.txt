@@ -1,0 +1,1 @@
+Here for mcp client, we haven't used sytreamlit or any other ui. we are using normal cli
